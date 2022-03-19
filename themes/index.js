@@ -361,6 +361,12 @@ const themes = {
     text_color: "e0def4",
     bg_color: "191724",
   }
+  "shamrock":{
+    title_color: "03332f",
+    icon_color: "306162",
+    text_color: "60845b",
+    bg_color: "fffefe",
+  }
 };
 
 module.exports = themes;
